@@ -1,4 +1,4 @@
 [submodule "plugin"]
-        path = plugin
-        url = git@github.com:grails-plugins/grails-quartz.git
+	path = plugin
+	url = git@github.com:grails-plugins/grails-quartz.git
         branch = master
