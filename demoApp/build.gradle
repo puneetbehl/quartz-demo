@@ -90,3 +90,9 @@ assets {
     minifyJs = true
     minifyCss = true
 }
+
+grails {
+    plugins {
+        compile project(':plugin')
+    }
+}
